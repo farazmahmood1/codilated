@@ -1,0 +1,2 @@
+!function(){window.performance&&window.performance.mark&&window.performance.mark("scriptStartTime");var o=/local.hubspot(qa)?.com/.test(document.location.hostname),n=/hs-sitesqa.com/.test(document.location.hostname);o||n||enviro.set("SENTRY_DEPLOYED",!0);if(window.Raven)try{var t=window.self!==window.top;window.Raven.setExtraContext({isIframe:t})}catch(o){window.Raven.setExtraContext({isIframe:"unknown"})}}();
+//# sourceMappingURL=//static.hsappstatic.net/MeetingsPublic/static-1.55154/html/configure-monitoring.js.map
